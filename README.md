@@ -1,8 +1,8 @@
 ## What's Up
 
 <a href="https://github.com/chrissnts">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrissnts&layout=compact&theme=white"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrissnts&show_icons=true&theme=white"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrissnts&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrissnts&show_icons=true&theme=dark"/>
   
 </a>
 <br><br>
